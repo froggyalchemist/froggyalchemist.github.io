@@ -2,8 +2,6 @@
 layout: post
 tags: 
 ---
-# my favorite internet things
-
 hey there! for my first post on this blog, i wrote a version of 'My Favorite Things' form *The Sound of The Music*. i suggest you listen to [the original song](https://www.youtube.com/watch?v=33o32C0ogVM) first to get a feel for the rhythm.
 
 >:notes: youtube tutorials and long video essays
