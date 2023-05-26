@@ -35,9 +35,77 @@ Videogames right now
 
 ## [Genres and categories](#genres-and-categories)
 
-Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.
+4 main genres: Action, Adventure, RPGs and Strategy
+Types of players:
+    -Killers
+    -Achievers
+    -Socializers
+    -Explorers
+Subgenres and hybrid genres: SSMB
+    -Platformers
+    -Graphic adventure
+    -Stealth: Metal Gear Solid / Assassin's Creed
+    -Rythm
+    -Non-linear:
+        -Non-linear platformers: Metroidvanias
+    -Open-world
+    -Battle Royale: Fornite
+    -Survival: Valheim
+    -Sandbox: Minecraft
+    -Lifesims: Animal Crossing, The Sims
+    -Simulation: Civilization, Lemmings
+    -Investigation: Danganronpa
+    -Game makers: Super Mario Maker
+    -Management: My Hospital
+    -Wargames:
+    -Tower defense: Bloons TD6
+    -Sports: Fifa
+    -Racing: Mario Kart
+    -Figting
+    -Social: Habbo, Animal Crossing
+    -Indie:
+    -Horror
 
-## The end
+Japan is where a lot of subgenres are born.
+(There is a lot of crossover inside these genres)
 
-Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Casual VS realistic game:
+    -Casual: Overcooked, basically every Wii game
+        -Cartoony graphics
+        -Easy to pick up
+        -General audiece
+    -Realistic: The Last of Us
+        -Like a movie
+        -Usually played only once
+
+Black mirror chapters about videogames:
+    -15 million points
+    -(Search for more)
+
+## [Storytelling in videogames](#storytelling)
+
+Mechanincs --> Dynamics --> Aesthetics
+
+Rules of the
+game
+
+Origins --> board games and popular fiction, also literature
+
+Choose your own path
+Critique of culture of decision:
+    -Stanley Parable
+    -Papers, Please
+
+Alternative storytelling
+    -Inside: no indications, no text, no music, you don't have much information
+    -Shadow of the Colossus: 
+
+Videogames and film
+
+Films about videogames: usually doesn't work
+Videogames about films: can be pretty good!
+
+Machinima: using videogame engines to produce a movie
+    -Examples: ...
+
 
