@@ -9,6 +9,7 @@ tags: [digital culture, videogames]
 - [Genres and categories](#genres-and-categories)
 - [Storytelling in videogames](#storytelling)
 - [Random stuff](#random-stuff)
+- 
 
 These ares some notes I took in class .
 
@@ -104,7 +105,7 @@ Origins --> board games and popular fiction, also literature
 Choose your own path
 
 Critique of culture of decision:
-- Stanley Parable
+- [Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), a game about (lack of) choice
 - Papers, Please
 
 Alternative storytelling
@@ -126,9 +127,10 @@ Machinima: using videogame engines to produce a movie
 - [Super Bernie World](https://eniko.itch.io/superbernieworld)
 
 ## [Random stuff](#random-stuff)
- - Videogames maps are getting bigger and bigger ... Here's [a video that compares videogame map sizes](https://www.youtube.com/watch?v=3TwjUk4ReZo).
+ - Videogames maps are getting bigger and bigger ... Here's [a video that compares videogame map sizes](https://www.youtube.com/watch?v=3TwjUk4ReZo). 
  - A beautiful videogame about a child with cancer: [That Dragon, Cancer](https://store.steampowered.com/app/419460/That_Dragon_Cancer/)
  - A videogame recommended by my professor, [Unmemory](https://store.steampowered.com/app/1388860/Unmemory/)
  - Interactive scrolling comic, [The Ocean is Broken](https://ocean.sutueatsflies.com/)
  - [Scott McCloud's blog](https://www.scottmccloud.com/). He is a really good comic artist.
  - [VR videos for the United Nations](https://unvr.sdgactioncampaign.org/vr-films/). There are some really cool projects in here.
+ - [The Pedestrian](https://store.steampowered.com/app/466630/The_Pedestrian/)
