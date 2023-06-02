@@ -24,6 +24,7 @@ These ares some notes I took in class . The interesting stuff is after "random s
 - Cyber cafes
 - (1980s) The boom of home consoles
 - Handheld consoles (Vectrex)
+- ![](2023-06-02-11-33-08.png)
 - (1983) Atari crisis: ET videogame
 - Japan and the home console
 - Nintendo changes the game
