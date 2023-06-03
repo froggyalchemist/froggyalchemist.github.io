@@ -4,46 +4,47 @@ title: videogames, a gentle introduction
 author: froggyalchemist
 tags: [digital culture, videogames]
 ---
-This is the first post of my Digital Culture Notes series! Right now I am taking a really cool subject at college called "Digital Culture", where we study videogames, animation, digital art, social media, etc. We take all kinds of nerdy stuff and try to make it sound intelligen. I will be posting the notes I take in theory classes with links to everything. You can see and download the slides we used in class [here](../files/%F0%9F%8E%AE%20%F0%9F%91%BE%20%F0%9F%95%B9%EF%B8%8F%20Videojocs.pdf).
+This is the first post of my Digital Culture Notes series! Right now I am taking a really cool subject at college called "Digital Culture", where we study videogames, animation, digital art, social media, etc. We take all kinds of nerdy stuff and try to make it sound intelligen. I will be posting some notes I took in theory classes with links to . You can see and download the slides we used in class [here](../files/%F0%9F%8E%AE%20%F0%9F%91%BE%20%F0%9F%95%B9%EF%B8%8F%20Videojocs.pdf).
 
 _Note: The interesting stuff is after "random stuff" because there are some -reallly- niche stuff. (the kind of stuff you learn at uni)._ #TODO: rewrite this better
 
-## Really old games you can play today
+# Really old games you can play today
 
 **Click the links to play the games.**
 
 Videogames were born in the 50s. Some of the first ones are:
+<img align="right" width="20%" height="20%" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Spacewar%21-PDP-1-20070512.jpg">
+
 - [OXO](https://youtu.be/iGe_brmoopc) (1952): computerized version of Tic-Tac-Toe
 - [Tennis for Two](https://www.retrogamedeconstructionzone.com/2021/08/the-tennis-for-two-simulator-tets.html) (1958): like Pong but worse
 - [Spacewar!](https://www.masswerk.at/spacewar/) (1962): first 2-player game
-  
-![](https://upload.wikimedia.org/wikipedia/commons/2/23/Spacewar%21-PDP-1-20070512.jpg)
 
 Much later came **interactive text adventures**. In these, the player uses the keyboard to enter commands like "grab the rope" or "go west" and the computer goes describing what happens and how the story progresses. 
 
 - [Colossal Cave Adventure](https://www.colossalcave3d.com/play-the-original-text-adventure/) (1976): first text adventure game.
 - [Zork](http://textadventures.co.uk/games/play/5zyoqrsugeopel3ffhz_vq): really popular and influential game where players navigate an undergroud world full of caves and river and battle monsters to get treasures. Sold over 800 000 copies for PC.
 - [Mystery House](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) (1980): one of the first ones with graphics
-
-![](https://www.retrogamer.net/wp-content/uploads/2013/10/mysteryhouse.png "doesn't look too fun...")
-
-
 - [King's Quest](https://playclassic.games/games/adventure-dos-games-online/play-kings-quest-quest-crown-online/play/) (1984): same author as Mystery House, Roberta Williams. First ever 3rd person graphic adventure.
 
-![](https://venturebeat.com/wp-content/uploads/2014/08/kq1.png?resize=1024%2C640&strip=all "now in color!") 
+Check out [the slides](../files/%F0%9F%8E%AE%20%F0%9F%91%BE%20%F0%9F%95%B9%EF%B8%8F%20Videojocs.pdf) to learn more about the history of videogames.
 
-## 1.2. [Genres and categories](#genres-and-categories)
+<img align="center" width="20%" height="20%" src="https://www.retrogamer.net/wp-content/uploads/2013/10/mysteryhouse.png"> 
+<img align="center" width="20%" height="20%" src="https://venturebeat.com/wp-content/uploads/2014/08/kq1.png"> 
 
-4 main genres: Action, Adventure, RPGs and Strategy
+# What type of player are you?
 
-### 1.2.1. Types of players:
+We can broadly categorize all videogames into 4 main genres:
+- Action
+- Adventure
+- RPGs
+- Strategy
 
-- Killers
-- Achievers
-- Socializers
-- Explorers
+But did you know we can also categorize players into 4 types?
 
-### 1.2.2. Subgenres and hybrid genres:
+<img align="center" width="100%" height="100%" src="https://i.pinimg.com/600x315/c7/de/a5/c7dea5e3584aec04d79fac7543c07fbc.jpg"> 
+
+
+# There are too many subgenres...
 
 - Platformers
 - Graphic adventure
@@ -130,6 +131,7 @@ Machinima: using videogame engines to produce a movie
  - [Scott McCloud's blog](https://www.scottmccloud.com/). He is a really good comic artist.
  - [VR videos for the United Nations](https://unvr.sdgactioncampaign.org/vr-films/). There are some really cool projects in here.
  - [The Pedestrian](https://store.steampowered.com/app/466630/The_Pedestrian/)
+ - https://pippinbarr.com/games/ (TODO: check this out!!)
 
 ## 1.5. Lore and transmedia
 
