@@ -1,0 +1,4 @@
+- Little Alchemy: play for free on your browser. I was a little obsessed with this game for some time, I had unlocked all items.
+- Picross 3D ROund 2: for Nintendo 3DS, surprisingly good metacritic scores
+- Tetrio: polished web browser version of tetris
+- Bloons TD: Play Bloons TD5 for free, if you like it I strongly recommend buying Bloons TD6

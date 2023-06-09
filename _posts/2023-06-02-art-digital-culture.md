@@ -28,7 +28,6 @@ You may have seen the by Marcel Duchamp (TODO: insert image here)
 # Digital art
 ## The begginings
 - Ben Laposku: Oscillons
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME") (TODO: change by actual link)
 
 - John Whitney
 Some say the idea of digital art was born with Andy Warhol .
@@ -62,8 +61,8 @@ Data becomes art
 
 This wasn't covered in class but Neocities is a pretty interesting example
 
--Toywar: most expensive collective performance. created a game to make the stock of Etoys fall.
--anthology riozime
+- Toywar: most expensive collective performance. created a game to make the stock of Etoys fall.
+- anthology riozime
 
 ### ASCII Art
 - Emojis were 
@@ -97,10 +96,49 @@ Others think Everything Is a REmix, and that at the end of the day, nothing is c
 
 # [The digital image](#the-digital-image)
 
+Tècniques que abans no podíem fer ara són possibles.
 ## Fractal art
 ## Recoloring
 - Jane Long: takes Flickr photos from random people and uses them as models to create a story
+## Morphing
+- Randy Lewis
+- Tony Futura
+- Chema Madoz
 
+## Landscape art
+
+## Digital ilustration
+
+Unlimited colors. We can push to the extremes.
+- Anton Semenov
+- Entergalactic (good example of how colors have changed), Neflix film
+
+## Pixel art
+
+- Sort of digital cubism: express a character with as little pixels as possible. Initially this was because of technical limitations, now it's an artistic choice.
+- Some artist try to make it more detailed and atmospheric
+
+[<img src="https://img.youtube.com/vi/HKCJJgs1p2Q/maxresdefault.jpg" width="50%">](https://youtu.be/HKCJJgs1p2Q)
+
+## Videoart
+## Gifs
+- Julien 
+## Digital sculpture
+## Digital architecture
+
+- [The Wilderness Downtown](http://www.thewildernessdowntown.com/): create a personalized videoclip of the house you grew up in.
+
+## Digital street art
+
+- Muto
+- Cheko
+- Blu
+
+# Visit Digital MUuseum
+(get from slides)
+  
+# BIOART (really interesting, i should look into this)
+- Eduardo Kac
 
 ## YouTube channels
 As usual, here are some recomendations:
